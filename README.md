@@ -35,8 +35,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently in 2<sup>nd</sup> year of B.Tech in CSE.
-- 🌱 I’m currently learning more about Kubernetes and Flutter.
+- 🔭 I’m currently in 4<sup>th</sup> year of B.Tech in CSE.
+- 🌱 I’m currently learning more about Kubernetes and Terraform.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 👨‍💻 Maintaining [screeninfo](https://github.com/rr-/screeninfo) package @ [conda-forge](https://anaconda.org/conda-forge/screeninfo)
 - 💬 Disucss with me about any tech related stuff or your ideas.
